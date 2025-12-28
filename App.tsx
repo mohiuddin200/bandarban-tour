@@ -9,6 +9,7 @@ import InfoGrid from './components/InfoGrid';
 const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-stone-50">
+    // Main
       <main>
         <Hero />
         <Places />
